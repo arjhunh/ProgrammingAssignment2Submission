@@ -1,4 +1,4 @@
-##The first function makeCachematrix takes a matrix as input and creates a "Special Matrix".
+##The first function makeCacheMatrix takes a matrix as input and creates a "Special Matrix".
 ##The second function cacheSolve uses the first function in its implementation and calculates
 ##the inverse.
 
